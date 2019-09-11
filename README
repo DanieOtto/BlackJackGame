@@ -5,6 +5,10 @@ This program is designed to replicate the popular card game "BlackJack".
 This program was written using C# by Danie Otto on 2019/08/28.
 The goal of this program was to exercise C# object-oriented programming principles. 
 
+Please note, the BlackJack game Github repository contains the Microsoft visual studio .sln file which can be used
+to view the source code. The program application .exe can be found in the following directory tree,
+"BlackJack_2019 > bin > Debug > BlackJack.exe".
+
 The goal of the game is to beat the dealer by reaching a card sum of 21 without going over. 
 The game starts by a dealer dealing two cards to the player and two to him or herself. 
 The player can see his or her two cards while only one card of the dealer is visible while the other is upside down. 
