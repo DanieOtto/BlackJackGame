@@ -1,0 +1,10 @@
+C:\Users\danie\OneDrive\codeProjects\C#\BlackJack_20190828\BlackJack_20190828\bin\Debug\BlackJack_20190828.exe.config
+C:\Users\danie\OneDrive\codeProjects\C#\BlackJack_20190828\BlackJack_20190828\bin\Debug\BlackJack_20190828.exe
+C:\Users\danie\OneDrive\codeProjects\C#\BlackJack_20190828\BlackJack_20190828\bin\Debug\BlackJack_20190828.pdb
+C:\Users\danie\OneDrive\codeProjects\C#\BlackJack_20190828\BlackJack_20190828\obj\Debug\BlackJack_20190828.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\codeProjects\C#\BlackJack_20190828\BlackJack_20190828\obj\Debug\BlackJack_20190828.Properties.Resources.resources
+C:\Users\danie\OneDrive\codeProjects\C#\BlackJack_20190828\BlackJack_20190828\obj\Debug\BlackJack_20190828.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\codeProjects\C#\BlackJack_20190828\BlackJack_20190828\obj\Debug\BlackJack_20190828.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\codeProjects\C#\BlackJack_20190828\BlackJack_20190828\obj\Debug\BlackJack_20190828.exe
+C:\Users\danie\OneDrive\codeProjects\C#\BlackJack_20190828\BlackJack_20190828\obj\Debug\BlackJack_20190828.pdb
+C:\Users\danie\OneDrive\codeProjects\C#\BlackJack_20190828\BlackJack_20190828\obj\Debug\BlackJack_20190828.BlackJack.resources
