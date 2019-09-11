@@ -1,0 +1,18 @@
+Program Description
+
+This program is designed to replicate the popular card game "BlackJack". 
+
+This program was written using C# by Danie Otto on 2019/08/28.
+The goal of this program was to exercise C# object-oriented programming principles. 
+
+The goal of the game is to beat the dealer by reaching a card sum of 21 without going over. 
+The game starts by a dealer dealing two cards to the player and two to him or herself. 
+The player can see his or her two cards while only one card of the dealer is visible while the other is upside down. 
+The player then has to decide whether to "Hit" or to "stay". 
+If the player chooses hit, the dealer deals them another card. The player can choose to hit as many times as they wish.
+The player however automatically losses once their card sum is greater than 21. 
+Once the player has achieved a card total they are contempt with, they must then choose to stay.
+It then becomes the dealers turn to play. 
+The dealer can also hit or stay. The dealer however must follow specific rules.
+If the dealers card sum is below 17, the dealer must hit. If the card sum is 17 or greater, the dealer must stay. 
+The game can be won by either the player or the dealer through achieving a higher score than the other without exceeding 21. 
